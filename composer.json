@@ -1,0 +1,20 @@
+{
+    "name": "hongxunpan/signal",
+    "description": "a signal manager of php",
+    "type": "libaray",
+    "require": {
+        "php": ">=7.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "HongXunPan\\Signal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HongXunPan",
+            "email": "me@kangxuanpeng.com"
+        }
+    ]
+}
